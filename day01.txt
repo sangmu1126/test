@@ -8,3 +8,5 @@ clear
 git init, status, add, 
 commit -m "message", git config --global
 4. git log, git checkout hashcode, git checkout -
+5. git remote add origin 리포지토리 주소, git remote -v,
+git push -u origin, git remote remove origin, git branch -M main

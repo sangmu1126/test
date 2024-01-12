@@ -1,0 +1,7 @@
+1. introduction
+2. 
+ls -al
+touch
+rm
+clear
+3. git init, status, add, commit -m "message"

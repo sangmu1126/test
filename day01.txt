@@ -1,7 +1,9 @@
 1. introduction
-2. 
+2. linux
 ls -al
 touch
 rm
 clear
-3. git init, status, add, commit -m "message"
+3. git
+git init, status, add, 
+commit -m "message", git config --global

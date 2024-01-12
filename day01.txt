@@ -7,3 +7,4 @@ clear
 3. git
 git init, status, add, 
 commit -m "message", git config --global
+4. git log, git checkout hashcode, git checkout -
